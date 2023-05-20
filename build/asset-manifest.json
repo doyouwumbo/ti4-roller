@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ti4-roller/static/css/main.a9e7f4d6.css",
+    "main.js": "/ti4-roller/static/js/main.1ca9b1d9.js",
+    "static/js/787.96e3b6a5.chunk.js": "/ti4-roller/static/js/787.96e3b6a5.chunk.js",
+    "static/media/d10.png": "/ti4-roller/static/media/d10.bb4af8156305d7ba8d36.png",
+    "static/media/d10AFB.png": "/ti4-roller/static/media/d10AFB.d75afeee3dd5ea1aa650.png",
+    "static/media/Nomad.webp": "/ti4-roller/static/media/Nomad.8550d41f7b0c22d7df34.webp",
+    "static/media/Titans.webp": "/ti4-roller/static/media/Titans.592bb49751c684748c8d.webp",
+    "static/media/Winnu.webp": "/ti4-roller/static/media/Winnu.4b37fdebccc49984f029.webp",
+    "static/media/Cabal.webp": "/ti4-roller/static/media/Cabal.481d0c7c440acea4404c.webp",
+    "static/media/Hacan.webp": "/ti4-roller/static/media/Hacan.fb7aea88f7c136f7904c.webp",
+    "static/media/Jol-Nar.webp": "/ti4-roller/static/media/Jol-Nar.70115ba9a03ee7c28086.webp",
+    "static/media/NaazRokha.webp": "/ti4-roller/static/media/NaazRokha.a1366f67c8735fb693ab.webp",
+    "static/media/Yin.webp": "/ti4-roller/static/media/Yin.3131c77c3c80073be5c9.webp",
+    "static/media/Argent.webp": "/ti4-roller/static/media/Argent.d7aacc83a42f93b0477c.webp",
+    "static/media/Arborec.webp": "/ti4-roller/static/media/Arborec.0ba0e3a32d964ddd9aa6.webp",
+    "static/media/Saar.webp": "/ti4-roller/static/media/Saar.e771de6dda043eefe5e3.webp",
+    "static/media/Empyrean.webp": "/ti4-roller/static/media/Empyrean.e0f71c6e7637eb79982d.webp",
+    "static/media/Mahact.webp": "/ti4-roller/static/media/Mahact.90382f13319304126938.webp",
+    "static/media/Barony.webp": "/ti4-roller/static/media/Barony.91f5d68e5aad620f8df5.webp",
+    "static/media/Muaat.webp": "/ti4-roller/static/media/Muaat.ede8f427f6c20021cf2c.webp",
+    "static/media/Yssaril.webp": "/ti4-roller/static/media/Yssaril.6247187eb1b29849088c.webp",
+    "static/media/Naalu.webp": "/ti4-roller/static/media/Naalu.aab5c978b031c063a2c0.webp",
+    "static/media/Sardakk.webp": "/ti4-roller/static/media/Sardakk.c3089696f527d6ae00e0.webp",
+    "static/media/Nekro.webp": "/ti4-roller/static/media/Nekro.ecc30f1f5486cf9112ff.webp",
+    "static/media/Xxcha.webp": "/ti4-roller/static/media/Xxcha.f0948b1d35ae3800945b.webp",
+    "static/media/Ghosts.webp": "/ti4-roller/static/media/Ghosts.b78590e03c592a985f47.webp",
+    "static/media/Mentak.webp": "/ti4-roller/static/media/Mentak.fb273dd4f3d475df5033.webp",
+    "static/media/Sol.webp": "/ti4-roller/static/media/Sol.a7cd16d0104a5ac00bcb.webp",
+    "static/media/L1Z1X.webp": "/ti4-roller/static/media/L1Z1X.1ba96fc8d14ac763ab6e.webp",
+    "index.html": "/ti4-roller/index.html",
+    "main.a9e7f4d6.css.map": "/ti4-roller/static/css/main.a9e7f4d6.css.map",
+    "main.1ca9b1d9.js.map": "/ti4-roller/static/js/main.1ca9b1d9.js.map",
+    "787.96e3b6a5.chunk.js.map": "/ti4-roller/static/js/787.96e3b6a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e7f4d6.css",
+    "static/js/main.1ca9b1d9.js"
+  ]
+}

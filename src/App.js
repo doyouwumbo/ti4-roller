@@ -134,7 +134,7 @@ const router = createBrowserRouter([
     path: "/cabal",
     element: <Cabal />
   },
-]);
+], {basename: "/ti4-roller"});
 
 
 function App() {
@@ -142,7 +142,7 @@ function App() {
     <Div100vh>
       <div className='App'>
         <ManualOverrideContext>
-          <RouterProvider router={router} />
+          <RouterProvider  router={router} />
         </ManualOverrideContext>
       </div>
     </Div100vh>
