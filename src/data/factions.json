@@ -1,0 +1,1715 @@
+[
+    {
+        "fullname": "The Arborec",
+        "logo": "Arborec.webp",
+        "url": "arborec",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 7,
+                    "shotCount": 2
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Barony of Letnev",
+        "logo": "Barony.webp",
+        "url": "barony",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 5,
+                    "shotCount": 2,
+                    "1ability": 5,
+                    "1abilityShotCount": 3
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Clan of Saar",
+        "logo": "Saar.webp",
+        "url": "saar",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 5,
+                    "shotCount": 2,
+                    "1ability": 6,
+                    "1abilityShotCount": 4
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Embers of Muaat",
+        "logo": "Muaat.webp",
+        "url": "muaat",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 5,
+                "shotCount": 2
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 9,
+                "1ability": 9,
+                "2cv": 8,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    },
+    {
+        "fullname": "The Emirates of Hacan",
+        "logo": "Hacan.webp",
+        "url": "hacan",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 7,
+                    "shotCount": 2
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Federation of Sol",
+        "logo": "Sol.webp",
+        "url": "sol",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 5,
+                    "shotCount": 2
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Ghosts of Creuss",
+        "logo": "Ghosts.webp",
+        "url": "ghosts",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 5,
+                    "shotCount": 1
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+        {
+        "fullname": "The L1Z1X Mindnet",
+        "logo": "L1Z1X.webp",
+        "url": "L1Z1X",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 5,
+                    "shotCount": 2
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "2cv": 4,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1,
+                    "2ability": 4,
+                    "2abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Mentak Coalition",
+        "logo": "Mentak.webp",
+        "url": "mentak",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 7,
+                    "shotCount": 2
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Naalu Collective",
+        "logo": "Naalu.webp",
+        "url": "naalu",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 9,
+                    "shotCount": 2
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Nekro Virus",
+        "logo": "Nekro.webp",
+        "url": "nekro",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 9,
+                    "shotCount": 2
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "Sardakk N'orr",
+        "logo": "Sardakk.webp",
+        "url": "sardakk",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 6,
+                    "shotCount": 2
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 4,
+                    "1abilityShotCount": 2
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Universities of Jol-Nar",
+        "logo": "Jol-Nar.webp",
+        "url": "jolnar",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 6,
+                    "shotCount": 2
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Winnu",
+        "logo": "Winnu.webp",
+        "url": "winnu",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 7
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Xxcha Kingdom",
+        "logo": "Xxcha.webp",
+        "url": "xxcha",
+        "combat": 
+            {
+                "Flagship": 
+                {
+                    "1cv": 7,
+                    "shotCount": 2,
+                    "1ability": 5,
+                    "1abilityShotCount": 3
+                },
+                "Warsun": 
+                {
+                    "1cv": 3,
+                    "shotCount": 3,
+                    "1ability": 3,
+                    "1abilityShotCount": 3
+                },
+                "Cruiser": 
+                {
+                    "1cv": 7,
+                    "2cv": 6,
+                    "shotCount": 1
+                },
+                "Dreadnaught":
+                {
+                    "1cv": 5,
+                    "shotCount": 1,
+                    "1ability": 5,
+                    "1abilityShotCount": 1
+                },
+                "Destroyer":
+                {
+                    "1cv": 9,
+                    "1ability": 9,
+                    "2cv": 8,
+                    "2ability": 6,
+                    "shotCount": 1,
+                    "1abilityShotCount": 2,
+                    "2abilityShotCount": 3
+                },
+                "PDS":
+                {
+                    "1cv": 6,
+                    "2cv": 5,
+                    "shotCount": 1
+                },
+                "Carrier": 
+                {
+                    "1cv": 9,
+                    "shotCount": 1
+                },
+                "Fighter": 
+                {
+                    "1cv": 9,
+                    "2cv": 8,
+                    "shotCount": 1
+                },
+                "Infantry": 
+                {
+                    "1cv": 8,
+                    "2cv": 7,
+                    "shotCount": 1
+                },
+                "Mech":
+                {
+                    "1cv": 6,
+                    "shotCount": 1
+                }
+            }
+    },
+    {
+        "fullname": "The Yin Brotherhood",
+        "logo": "Yin.webp",
+        "url": "yin",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 9,
+                "shotCount": 2
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1,
+                "1ability": 5,
+                "1abilityShotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 9,
+                "1ability": 9,
+                "2cv": 8,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    },
+    {
+        "fullname": "The Yssaril Tribes",
+        "logo": "Yssaril.webp",
+        "url": "yssaril",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 5,
+                "shotCount": 2
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1,
+                "1ability": 5,
+                "1abilityShotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 9,
+                "1ability": 9,
+                "2cv": 8,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    },
+    {
+        "fullname": "The Argent Flight",
+        "logo": "Argent.webp",
+        "url": "argent",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 7,
+                "shotCount": 2
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1,
+                "1ability": 5,
+                "1abilityShotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 8,
+                "1ability": 9,
+                "2cv": 7,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    },
+    {
+        "fullname": "The Empyrean",
+        "logo": "Empyrean.webp",
+        "url": "empyrean",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 5,
+                "shotCount": 2
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1,
+                "1ability": 5,
+                "1abilityShotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 9,
+                "1ability": 9,
+                "2cv": 8,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    },
+    {
+        "fullname": "The Mahact Gene-Sorcerers",
+        "logo": "Mahact.webp",
+        "url": "mahact",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 5,
+                "shotCount": 2
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1,
+                "1ability": 5,
+                "1abilityShotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 9,
+                "1ability": 9,
+                "2cv": 8,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    },
+    {
+        "fullname": "The Naaz-Rokha Alliance",
+        "logo": "NaazRokha.webp",
+        "url": "naaz",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 9,
+                "shotCount": 2
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1,
+                "1ability": 5,
+                "1abilityShotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 9,
+                "1ability": 9,
+                "2cv": 8,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    },
+    {
+        "fullname": "The Nomad",
+        "logo": "Nomad.webp",
+        "url": "nomad",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 7,
+                "2cv": 5,
+                "shotCount": 2,
+                "1ability": 8,
+                "2ability": 5,
+                "1abilityShotCount": 3,
+                "2abilityShotCount": 3
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1,
+                "1ability": 5,
+                "1abilityShotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 9,
+                "1ability": 9,
+                "2cv": 8,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    },
+    {
+        "fullname": "The Titans of Ul",
+        "logo": "Titans.webp",
+        "url": "titans",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 7,
+                "shotCount": 2
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1,
+                "1ability": 5,
+                "1abilityShotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 9,
+                "1ability": 9,
+                "2cv": 8,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    },
+    {
+        "fullname": "The Vuil'Raith Cabal",
+        "logo": "Cabal.webp",
+        "url": "cabal",
+        "combat": 
+        {
+            "Flagship": 
+            {
+                "1cv": 5,
+                "shotCount": 2,
+                "1bility": 5,
+                "1abilityShotCount": 1
+            },
+            "Warsun": 
+            {
+                "1cv": 3,
+                "shotCount": 3,
+                "1ability": 3,
+                "1abilityShotCount": 3
+            },
+            "Cruiser": 
+            {
+                "1cv": 7,
+                "2cv": 6,
+                "shotCount": 1
+            },
+            "Dreadnaught":
+            {
+                "1cv": 5,
+                "shotCount": 1,
+                "1ability": 5,
+                "1abilityShotCount": 1
+            },
+            "Destroyer":
+            {
+                "1cv": 9,
+                "1ability": 9,
+                "2cv": 8,
+                "2ability": 6,
+                "shotCount": 1,
+                "1abilityShotCount": 2,
+                "2abilityShotCount": 3
+            },
+            "PDS":
+            {
+                "1cv": 6,
+                "2cv": 5,
+                "shotCount": 1
+            },
+            "Carrier": 
+            {
+                "1cv": 9,
+                "shotCount": 1
+            },
+            "Fighter": 
+            {
+                "1cv": 9,
+                "2cv": 8,
+                "shotCount": 1
+            },
+            "Infantry": 
+            {
+                "1cv": 8,
+                "2cv": 7,
+                "shotCount": 1
+            },
+            "Mech":
+            {
+                "1cv": 6,
+                "shotCount": 1
+            }
+        }
+    }
+]

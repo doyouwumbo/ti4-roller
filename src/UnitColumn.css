@@ -1,0 +1,8 @@
+.MuiOutlinedInput-notchedOutline {
+    border-width: 1px !important;
+    border-color: rgb(255, 255, 255) !important;
+  }
+  
+  .Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #D9B310 !important;
+  }
